@@ -1,2 +1,2 @@
-# Django-CRUD-main_
- Repository demonstrating Django CRUD
+# Django-CRUD
+Repository to demonstrate Django CRUD
